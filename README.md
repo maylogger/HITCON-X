@@ -1,7 +1,7 @@
-HITCON-X
+HITCON X
 ========
 
-design source for HITCON X (2014)
+Design source for HITCON X (2014)
 
 - logo  
-  logo 向量檔案
+  logo ai 向量檔案
